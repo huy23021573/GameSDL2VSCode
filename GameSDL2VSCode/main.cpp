@@ -1,11 +1,11 @@
 #include "stdafx.h"
-#include "CommonFunction.h"
-#include "BaseObject.h"
-#include "game_map.h"
-#include "MainObject.h"
-#include "ImpTimer.h"
-#include "ThreatsObject.h"
-#include "ExplosionObject.h"
+#include "CommonFunctions.h"
+#include "BaseObjects.h"
+#include "game_maps.h"
+#include "MainObjects.h"
+#include "ImpTimers.h"
+#include "ThreatsObjects.h"
+#include "ExplosionObjects.h"
 
 
 

@@ -1,50 +1,50 @@
-﻿  BaseObject.cpp
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\CommonFunction.h(43,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
-  (compiling source file '/BaseObject.cpp')
+﻿  BaseObjects.cpp
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\CommonFunctions.h(43,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+  (compiling source file '/BaseObjects.cpp')
   
-  BulletObject.cpp
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\CommonFunction.h(43,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
-  (compiling source file '/BulletObject.cpp')
+  BulletObjects.cpp
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\CommonFunctions.h(43,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+  (compiling source file '/BulletObjects.cpp')
   
-  CommonFunction.cpp
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\CommonFunction.h(43,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
-  (compiling source file '/CommonFunction.cpp')
+  CommonFunctions.cpp
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\CommonFunctions.h(43,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+  (compiling source file '/CommonFunctions.cpp')
   
-  ExplosionObject.cpp
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\CommonFunction.h(43,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
-  (compiling source file '/ExplosionObject.cpp')
+  ExplosionObjects.cpp
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\CommonFunctions.h(43,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+  (compiling source file '/ExplosionObjects.cpp')
   
-  game_map.cpp
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\CommonFunction.h(43,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
-  (compiling source file '/game_map.cpp')
+  game_maps.cpp
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\CommonFunctions.h(43,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+  (compiling source file '/game_maps.cpp')
   
-  ImpTimer.cpp
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\CommonFunction.h(43,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
-  (compiling source file '/ImpTimer.cpp')
+  ImpTimers.cpp
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\CommonFunctions.h(43,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+  (compiling source file '/ImpTimers.cpp')
   
   main.cpp
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\CommonFunction.h(43,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\CommonFunctions.h(43,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
   (compiling source file '/main.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.h(12,1): warning C4005: 'GRAVITY_SPEED': macro redefinition
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.h(12,1): warning C4005: 'GRAVITY_SPEED': macro redefinition
   (compiling source file '/main.cpp')
-  C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.h(9,1):
+  C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.h(9,1):
   see previous definition of 'GRAVITY_SPEED'
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.h(15,1): warning C4005: 'PLAYER_SPEED': macro redefinition
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.h(15,1): warning C4005: 'PLAYER_SPEED': macro redefinition
   (compiling source file '/main.cpp')
-  C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.h(11,1):
+  C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.h(11,1):
   see previous definition of 'PLAYER_SPEED'
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.h(16,1): warning C4005: 'PLAYER_HIGHT_VAL': macro redefinition
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.h(16,1): warning C4005: 'PLAYER_HIGHT_VAL': macro redefinition
   (compiling source file '/main.cpp')
-  C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.h(12,1):
+  C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.h(12,1):
   see previous definition of 'PLAYER_HIGHT_VAL'
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.h(33,26): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.h(33,26): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
   (compiling source file '/main.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.h(34,26): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.h(34,26): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
   (compiling source file '/main.cpp')
   
 C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\main.cpp(82,27): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
@@ -68,142 +68,142 @@ C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\main.cpp(261,19): warning
 C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\main.cpp(287,18): warning C4018: '<': signed/unsigned mismatch
   (compiling source file '/main.cpp')
   
-  MainObject.cpp
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\CommonFunction.h(43,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
-  (compiling source file '/MainObject.cpp')
+  MainObjects.cpp
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\CommonFunctions.h(43,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(105,46): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(105,46): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(110,66): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(110,66): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(172,20): warning C4018: '<': signed/unsigned mismatch
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(172,20): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(200,39): warning C4018: '<': signed/unsigned mismatch
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(200,39): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(324,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(324,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(325,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(325,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(341,26): warning C4305: '+=': truncation from 'double' to 'float'
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(341,26): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(398,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(398,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(406,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(406,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(425,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(425,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(426,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(426,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(428,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(428,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(429,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(429,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(453,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(453,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(473,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(473,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(483,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(483,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(484,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(484,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(486,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(486,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(487,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(487,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(506,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(506,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(535,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(535,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/MainObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObject.cpp(552,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  (compiling source file '/MainObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\MainObjects.cpp(552,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/MainObjects.cpp')
   
-  ThreatsObject.cpp
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\CommonFunction.h(43,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
-  (compiling source file '/ThreatsObject.cpp')
+  ThreatsObjects.cpp
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\CommonFunctions.h(43,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+  (compiling source file '/ThreatsObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.h(33,26): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/ThreatsObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.h(33,26): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/ThreatsObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.h(34,26): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/ThreatsObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.h(34,26): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/ThreatsObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.cpp(62,41): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
-  (compiling source file '/ThreatsObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.cpp(62,41): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file '/ThreatsObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.cpp(62,27): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
-  (compiling source file '/ThreatsObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.cpp(62,27): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file '/ThreatsObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.cpp(87,21): warning C4018: '<': signed/unsigned mismatch
-  (compiling source file '/ThreatsObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.cpp(87,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/ThreatsObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.cpp(120,37): warning C4018: '<': signed/unsigned mismatch
-  (compiling source file '/ThreatsObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.cpp(120,37): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/ThreatsObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.cpp(345,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/ThreatsObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.cpp(345,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/ThreatsObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.cpp(346,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/ThreatsObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.cpp(346,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/ThreatsObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.cpp(348,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/ThreatsObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.cpp(348,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/ThreatsObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.cpp(349,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/ThreatsObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.cpp(349,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/ThreatsObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.cpp(363,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  (compiling source file '/ThreatsObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.cpp(363,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/ThreatsObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.cpp(373,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  (compiling source file '/ThreatsObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.cpp(373,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/ThreatsObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.cpp(383,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/ThreatsObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.cpp(383,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/ThreatsObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.cpp(384,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/ThreatsObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.cpp(384,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/ThreatsObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.cpp(386,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/ThreatsObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.cpp(386,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/ThreatsObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.cpp(387,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/ThreatsObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.cpp(387,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/ThreatsObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.cpp(397,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  (compiling source file '/ThreatsObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.cpp(397,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/ThreatsObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.cpp(410,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  (compiling source file '/ThreatsObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.cpp(410,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/ThreatsObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.cpp(427,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  (compiling source file '/ThreatsObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.cpp(427,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/ThreatsObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.cpp(440,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/ThreatsObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.cpp(440,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/ThreatsObjects.cpp')
   
-C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObject.cpp(441,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file '/ThreatsObject.cpp')
+C:\Users\Admin\Documents\GameSDL2VSCode\GameSDL2VSCode\ThreatsObjects.cpp(441,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/ThreatsObjects.cpp')
   
   Generating Code...
   GameSDL2VSCode.vcxproj -> C:\Users\Admin\Documents\GameSDL2VSCode\Debug\GameSDL2VSCode.exe
